@@ -1,6 +1,6 @@
 ## Proyecto 1 — Análisis Exploratorio de Datos (EDA) y Visualización de Datos (BI)
 
-En este proyecto se trabajará en poder entender el comportamiento de los datos, identificar tendencias, outliers y construir visualizaciones que permitan apoyar la toma de desiciones.
+En este proyecto se trabajará en poder entender el comportamiento de los datos, identificar tendencias, outliers y construir visualizaciones que permitan apoyar la toma de decisiones.
 
 ## Fuente de Datos
 
