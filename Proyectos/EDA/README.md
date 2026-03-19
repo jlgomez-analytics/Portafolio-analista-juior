@@ -23,3 +23,6 @@ Dataset de ventas Retail que contiene información de:
 - Python 
 - R 
 - Power BI (Power Query/ Medidas DAX)
+
+## Estadística descriptiva
+
