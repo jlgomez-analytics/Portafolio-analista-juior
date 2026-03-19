@@ -19,4 +19,8 @@ Dataset de ventas Retail que contiene información de:
 - Price per Unit: Precio de una unidad del producto.
 - Total Amount: Monto total de la transacción, que representa el valor monetario de cada compra.
 
-  
+##  Tecnologías
+- Python 
+- R 
+- Power BI (Power Query/ Medidas DAX)
+- GitHub
