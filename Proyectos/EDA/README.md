@@ -38,3 +38,5 @@ No se detectaron inconsistencias, lo que indica una buena calidad de los datos y
 
 Se identificaron transacciones con montos significativamente superiores al resto del conjunto de datos.
 Estos outliers podrían corresponder a compras de alto volumen o a comportamientos atípicos de ciertos clientes.
+
+
