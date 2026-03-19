@@ -25,5 +25,17 @@ Este repositorio reune proyectos desarrollados con R, Python, SQL, Excel y Power
 
 ## Proyectos
 
+| Proyecto                    | Descripción                                                                         | Tecnologías  |
+| --------------------------- | ----------------------------------------------------------------------------------- | ------------ |
+| **EDA**                     | Análisis exploratorio de datos para identificar patrones, outliers y métricas clave | R / Python   |
+| **ETL**                     | Limpieza, transformación y carga de datos                                           | Python       |
+| **Dashboard Power BI**      | Visualización interactiva de KPIs para apoyo a la toma de decisiones                | Power BI     |
+| **Validacion de calidad**   | Validación de consistencia y  completitud                                           | SQL          |
+
+
+## Contacto
+
+* **GitHub**: [https://github.com/jlgomez-analytics]
+* **LinkedIn**: [https://www.linkedin.com/in/jose-luis-gomez-jara-048015230/]
   
   
