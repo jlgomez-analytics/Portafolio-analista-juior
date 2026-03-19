@@ -24,5 +24,17 @@ Dataset de ventas Retail que contiene información de:
 - R 
 - Power BI (Power Query/ Medidas DAX)
 
-## Estadística descriptiva
+## Interpretacion del Análisis
 
+**Validación de calidad de datos (QA)**
+
+Se realizó una validación lógica para verificar la consistencia del dataset, confirmando que el monto total de cada transacción corresponde al producto entre cantidad y precio unitario:
+
+Total Amount = Quantity × Price per Unit
+
+No se detectaron inconsistencias, lo que indica una buena calidad de los datos y confiabilidad para análisis posteriores.
+
+**Detección de outliers**
+
+Se identificaron transacciones con montos significativamente superiores al resto del conjunto de datos.
+Estos outliers podrían corresponder a compras de alto volumen o a comportamientos atípicos de ciertos clientes.
