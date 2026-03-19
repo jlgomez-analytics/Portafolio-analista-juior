@@ -26,7 +26,7 @@ Dataset de ventas Retail que contiene información de:
 
 ## Interpretacion del Análisis
 
-**Validación de calidad de datos (QA)**
+**Validación de calidad de datos**
 
 Se realizó una validación lógica para verificar la consistencia del dataset, confirmando que el monto total de cada transacción corresponde al producto entre cantidad y precio unitario:
 
