@@ -1,5 +1,5 @@
 # ============================================================
-# Proyecto 1 - Análisis Exploratorio de Datos (EDA) y Visualización de Datos (BI)
+# Proyecto 1 - Análisis Exploratorio de Datos  y Visualización de Datos
 # Autor: José Luis Gómez
 # Descripción: Exploración inicial de un dataset de ventas Retail
 # ============================================================
