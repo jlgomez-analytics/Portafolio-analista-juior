@@ -39,4 +39,26 @@ No se detectaron inconsistencias, lo que indica una buena calidad de los datos y
 Se identificaron transacciones con montos significativamente superiores al resto del conjunto de datos.
 Estos outliers podrían corresponder a compras de alto volumen o a comportamientos atípicos de ciertos clientes.
 
+**Cantidad de productos**
+
+La variable Quantity muestra que la mayoría de las transacciones corresponden a compras de pocas unidades, lo que indica un patrón de consumo principalmente minorista.
+
+**Precio por unidad**
+
+El Price per Unit presenta una dispersión moderada, reflejando la coexistencia de productos de bajo y alto valor dentro del catálogo. Esta variabilidad explica, en parte, las diferencias observadas en el monto total de las transacciones y permite identificar categorías de productos con distinto posicionamiento de precio.
+
+**Monto total de la transacción**
+
+El Total Amount exhibe una distribución asimétrica hacia la derecha, con la mayoría de las transacciones concentradas en montos bajos o medios y una cola hacia valores altos. Esto nos indica que:
+
+- La media tiende a ser mayor que la mediana
+
+- Los outliers influyen significativamente en el promedio
+
+- La mediana resulta una medida más representativa del comportamiento típico de las transacciones
+
+**Edad de los clientes**
+
+La variable Age muestra una distribución relativamente amplia, lo que sugiere una base de clientes diversa en términos etarios. Esto permite segmentar el análisis y evaluar cómo varían los patrones de consumo entre distintos grupos de edad.
+
 
