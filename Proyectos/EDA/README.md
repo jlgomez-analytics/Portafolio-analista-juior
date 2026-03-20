@@ -62,3 +62,33 @@ El Total Amount exhibe una distribución asimétrica hacia la derecha, con la ma
 La variable Age muestra una distribución relativamente amplia, lo que sugiere una base de clientes diversa en términos etarios. Esto permite segmentar el análisis y evaluar cómo varían los patrones de consumo entre distintos grupos de edad.
 
 
+## Insights del Análisis Exploratorio
+
+**Ventas por categoría de producto**
+
+El análisis evidenció que las categorías de Electrónicos y Ropa concentran una mayor proporción del monto total de ventas, sin presentar diferencias significativas entre ellas.
+Esto sugiere que ambas categorías actúan como los principales motores de ingresos del negocio.
+
+Este resultado permite identificar estas categorías como estratégicas para priorizar decisiones de inventario y acciones comerciales.
+
+**Segmentación por género**
+
+Se observaron diferencias en el comportamiento de compra entre géneros, donde el género femenino presenta un mayor aporte al monto total de ventas en comparación con el masculino.
+Este resultado sugiere la existencia de patrones de consumo diferenciados, lo que podría ser aprovechado para estrategias de marketing segmentadas o para la personalización de ofertas.
+
+**Análisis por edad**
+
+El análisis inicial mediante un gráfico de dispersión entre edad y monto de compra muestra una alta dispersión y ausencia de una relación clara entre ambas variables.
+Esto sugiere que la edad, de forma individual, no es un factor determinante del monto de las transacciones, siendo necesario agrupar por rangos etarios para obtener conclusiones más interpretables.
+
+**Evolución temporal de las ventas**
+
+La exploración temporal permitió identificar variaciones en el nivel de ventas a lo largo del tiempo, lo que sugiere posibles efectos de estacionalidad o la influencia de eventos específicos.
+En particular, se observa que el mes de mayo concentra el mayor nivel de ventas del año 2023.
+Este comportamiento resalta la importancia de considerar el factor temporal en la planificación y proyección de ventas.
+
+##  Conclusión
+
+El análisis exploratorio permitió identificar patrones clave en el comportamiento de ventas retail, destacando una distribución asimétrica de los montos, la relevancia de las categorías de Electrónicos y Ropa, y diferencias en el comportamiento de compra por género.
+
+No se observó una relación clara entre edad y monto de compra, mientras que el análisis temporal evidenció variaciones relevantes en las ventas, con una alza en las ventas en mayo de 2023. La validación de calidad de datos confirmó la consistencia del dataset, proporcionando una base confiable para análisis posteriores.
