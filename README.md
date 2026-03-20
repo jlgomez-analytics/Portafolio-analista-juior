@@ -1,4 +1,4 @@
-# Portafolio de analista junior
+# Portafolio de Analista Junior
 
 Soy Profesional Estadistico con formacion en Data Science, enfocado en el analisis y procesamiento de datos, con interes en puestos como Data Analyst, Data Scientist y Data Engineer .
 
