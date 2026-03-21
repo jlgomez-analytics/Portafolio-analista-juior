@@ -1,5 +1,5 @@
 ###########################################
-# Proyecto 2 — Pipeline ETL Automatizado con QA de Datos
+# Proyecto 2 — Pipeline ETL Automatizado de Calidad de Datos
 # Autor: jlgomez-analytics
 # Lenguaje: Python
 ###########################################
