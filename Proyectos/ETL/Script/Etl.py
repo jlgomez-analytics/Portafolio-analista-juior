@@ -1,7 +1,7 @@
 ###########################################
 # Proyecto 2 — Pipeline ETL Automatizado de Calidad de Datos
-# Autor: jlgomez-analytics
-# Lenguaje: Python
+# Autor: José Luis Gómez
+# Descripción: Implementación de validaciones
 ###########################################
 
 # Librerias
