@@ -1,4 +1,4 @@
-## Insights principales del dashboard
+## Insights principales del Dashboard
 
 **Evolución de ventas en el tiempo y posibles picos relevantes**
 
