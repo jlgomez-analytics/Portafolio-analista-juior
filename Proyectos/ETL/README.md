@@ -61,7 +61,7 @@ El pipeline sigue las tres etapas clásicas de ETL:
 
 - Archivo listo para consumo analítico
   
-## Data Quality (QA)
+## Data Quality
 
 Se aplicaron reglas de calidad para asegurar consistencia:
 
