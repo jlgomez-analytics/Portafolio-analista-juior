@@ -38,4 +38,56 @@ El dataset contiene la siguiente informacion:
 
 - Python
 
+## Flujo ETL
+
+El pipeline sigue las tres etapas clásicas de ETL:
+
+**Extract**
+
+- Lectura del dataset desde archivo CSV
+
+**Transform**
+
+- Normalización de nombres de columnas
+
+- Conversión de tipos de datos
+
+- Creación de variable derivada:
+  total_amount = quantity * unitprice
+  
+**Load**
+
+- Exportación del dataset limpio a CSV
+
+- Archivo listo para consumo analítico
+  
+## Data Quality (QA)
+
+Se aplicaron reglas de calidad para asegurar consistencia:
+
+- Eliminación de devoluciones 
+
+- Eliminación de precios inválidos 
+
+- Eliminación de registros sin cliente 
+
+Estas validaciones permiten evitar errores en análisis posteriores.
+
+
+## Principales hallazgos de calidad de datos
+
+Durante el análisis se identificaron:
+
+- 25% de registros sin customerid
+
+- Registros con cantidades negativas que se interpretaron como devoluciones
+
+- Precios nulos o iguales a cero
+
+Estos problemas fueron tratados mediante reglas de limpieza en el pipeline.
+
+## Conclusión
+
+A partir del análisis, se identificaron diversas inconsistencias en los datos, por lo que fue necesario implementar validaciones de calidad orientadas a garantizar la confiabilidad de la información. Esto permitió obtener un dataset limpio y consistente, que pueda generar resultados más precisos y aportar valor a la toma de decisiones del negocio. 
+
 
