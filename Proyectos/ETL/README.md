@@ -37,6 +37,8 @@ El dataset contiene la siguiente informacion:
 ## Tecnologías
 
 - Python
+- Github
+  
 
 ## Flujo ETL
 
