@@ -1,6 +1,6 @@
-# Proyecto 2 — Pipeline ETL Manual y Automatizado Análisis de Calidad de Datos
+# Proyecto 2 — Pipeline ETL Automatizado de Calidad de Datos
 
-Este proyecto se trabajará en implementar un pipeline ETL manual y uno automatizado en Python sobre un dataset transaccional de ventas retail. El pipeline permite:
+Este proyecto tiene como objetivo asegurar la calidad de los datos mediante la implementación de validaciones y el desarrollo de un pipeline ETL automatizado en Python, aplicado a un dataset transaccional de ventas retail. El pipeline permite:
 
 - Procesar datos crudos
 
