@@ -12,7 +12,7 @@ Este proyecto tiene como objetivo asegurar la calidad de los datos mediante la i
 
 ## Fuente de Datos
 
-El dataset utilizado para realizar el proyecto es Online Retail Dataset (obtenido desde Kaggle): [https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset).
+El dataset utilizado para realizar el proyecto es Online Retail Dataset (obtenido desde Kaggle): [https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset). Los datos fueron utilizados exclusivamente con fines educativos
 
 ## Dataset
 
