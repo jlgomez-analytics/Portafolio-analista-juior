@@ -8,7 +8,7 @@ Este proyecto se trabajará en implementar un pipeline ETL manual y uno automati
 
 - Ejecutar validaciones de calidad de datos (QA)
 
-- Generar un dataset limpio listo para análisis
+- Generar un dataset limpio y listo para análisis
 
 ## Fuente de Datos
 
